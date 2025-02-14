@@ -2,8 +2,11 @@ Abstract: Glioma grading is a crucial step in optimizing treatment strategies to
 
 Instruction to reproduce the results:
 Step 1: Download dataset folder and Glioma Grading.ipynb file on your computer.
+
 Step 2: Create a folder named #Research on your google drive's home directory (My Drive). Then under #Research directory create another folder named #MetaHeuriSticS.
+
 Step 3: Upload dataset folder you downloaded in step 1 under #MetaHeuriSticS folder.
+
 Step 4: Upload Glioma Grading.ipynb file under #MetaHeuriSticS folder. Final Folder structure should be looked like the following
 
 My Drive
@@ -12,6 +15,8 @@ My Drive
          └───dataset
          └───Glioma Grading.ipynb   
 
+
 Step 5: Open the Glioma Grading.ipynb file using google colab and run all cells sequentially to reproduce results. Further clarification of codes can be found in that notebook file.
+
 Video Presentation Link:
 https://drive.google.com/file/d/1w7b1o1sDEIb5ni0vSI-5mPQv7Mr4UgEb/view?usp=drive_link
