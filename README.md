@@ -10,17 +10,6 @@ Step 3: Upload dataset folder you downloaded in step 1 under #MetaHeuriSticS fol
 
 Step 4: Upload Glioma Grading.ipynb file under #MetaHeuriSticS folder. Final Folder structure should be looked like the following
 
-My Drive
-
-└─── #Research
-
-     └───#MetaHeuriSticS
-     
-         └───dataset
-         
-         └───Glioma Grading.ipynb   
-
-
 Step 5: Open the Glioma Grading.ipynb file using google colab and run all cells sequentially to reproduce results. Further clarification of codes can be found in that notebook file.
 
 Video Presentation Link:
